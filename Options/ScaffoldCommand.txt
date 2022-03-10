@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=local;DataBase=DBAppointment;User ID=sa;Password=M.s677093;Trusted_Connection=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data -force
